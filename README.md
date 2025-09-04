@@ -39,6 +39,13 @@ npm start
 The frontend will be running on http://localhost:3000 and should open automatically in your browser.
 
 
+RESULTS:
+
+![alt text](image1.png)
+![alt text](image2.png)
+![alt text](image3.png)
+![alt text](image.png)
+
 Legal Document Intelligence Platform
 This project is a powerful, RAG-based document analysis and chat platform specifically designed for the needs of US law firms. It allows users to upload legal documents (PDF, DOCX, TXT), receive a comprehensive analysis, and interact with the document through a chat interface.
 
